@@ -9,12 +9,12 @@
                 <div class="w-[350px] h-[242px] mx-auto rounded-[16px] border xl:w-[400px] 2xl:w-[500px]">
                 <div class="h-[242px] rounded-[16px]">
                     <div class=" mt-[24px]">
-                        <p class="text-[16px] px-4 text-justify">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
+                        <p class="text-[16px] px-4 text-justify font-rubik">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
                     </div>
                     <div class="flex items-center gap-4 pl-4 pt-4">
-                        <img src="../assets/image/cliyent/Ellipse 1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                        <img src="../assets/image/cliyent/Ellipse 1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                         <div class="">
-                            <h2 class="text-[16px] font-[700]">Brooklyn Simmons</h2>
+                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
                         </div>
                     </div>
                 </div>
@@ -22,12 +22,12 @@
             <div class="w-[350px] h-[242px] mx-auto rounded-[16px] border xl:w-[400px] 2xl:w-[500px]">
                 <div class="h-[242px] rounded-[16px]">
                     <div class=" mt-[24px]">
-                        <p class="text-[16px] px-4 text-justify">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
+                        <p class="text-[16px] px-4 text-justify font-rubik">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
                     </div>
                     <div class="flex items-center gap-4 pl-4 pt-4">
-                        <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                        <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                         <div class="">
-                            <h2 class="text-[16px] font-[700]">Brooklyn Simmons</h2>
+                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
                         </div>
                     </div>
                 </div>
@@ -35,12 +35,12 @@
             <div class="w-[350px] h-[242px] mx-auto rounded-[16px] border xl:w-[400px] 2xl:w-[500px]">
                 <div class="h-[242px] rounded-[16px]">
                     <div class=" mt-[24px]">
-                        <p class="text-[16px] px-4 text-justify">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
+                        <p class="text-[16px] px-4 text-justify font-rubik">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
                     </div>
                     <div class="flex items-center gap-4 pl-4 pt-4">
-                        <img src="../assets/image/cliyent/Ellipse 3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                        <img src="../assets/image/cliyent/Ellipse 3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                         <div class="">
-                            <h2 class="text-[16px] font-[700]">Brooklyn Simmons</h2>
+                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
                         </div>
                     </div>
                 </div>
@@ -48,12 +48,12 @@
             <div class="w-[350px] h-[242px] mx-auto rounded-[16px] border xl:w-[400px] 2xl:w-[500px]">
                 <div class="h-[242px] rounded-[16px]">
                     <div class=" mt-[24px]">
-                        <p class="text-[16px] px-4 text-justify">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
+                        <p class="text-[16px] px-4 text-justify font-rubik">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
                     </div>
                     <div class="flex items-center gap-4 pl-4 pt-4">
-                        <img src="../assets/image/cliyent/Ellipse 1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                        <img src="../assets/image/cliyent/Ellipse 1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                         <div class="">
-                            <h2 class="text-[16px] font-[700]">Brooklyn Simmons</h2>
+                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
                         </div>
                     </div>
                 </div>
@@ -61,12 +61,12 @@
             <div class="w-[350px] h-[242px] mx-auto rounded-[16px] border xl:w-[400px] 2xl:w-[500px]">
             <div class="h-[242px] rounded-[16px]">
                 <div class=" mt-[24px]">
-                    <p class="text-[16px] px-4 text-justify">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
+                    <p class="text-[16px] px-4 text-justify font-rubik">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
                 </div>
                 <div class="flex items-center gap-4 pl-4 pt-4">
-                    <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                    <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                     <div class="">
-                        <h2 class="text-[16px] font-[700]">Brooklyn Simmons</h2>
+                        <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
                     </div>
                 </div>
             </div>
@@ -74,12 +74,12 @@
         <div class="w-[350px] h-[242px] mx-auto rounded-[16px] border xl:w-[400px] 2xl:w-[500px]">
             <div class="h-[242px] rounded-[16px]">
                 <div class=" mt-[24px]">
-                    <p class="text-[16px] px-4 text-justify">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
+                    <p class="text-[16px] px-4 text-justify font-rubik">I have been using Cosinus services for a long time. They offer the best website and mobile app development options and solutions that are optimal for your business. I think that our cooperation will last for many years.</p>
                 </div>
                 <div class="flex items-center gap-4 pl-4 pt-4">
-                    <img src="../assets/image/cliyent/Ellipse 3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-[24px]">
+                    <img src="../assets/image/cliyent/Ellipse 3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                     <div class="">
-                        <h2 class="text-[16px] font-[700]">Brooklyn Simmons</h2>
+                        <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
                     </div>
                 </div>
             </div>
