@@ -1,18 +1,18 @@
 <template>
-    <section class="px-4 mt-[104px] md:px-0 md:mt-[128px] xl:mt-[200px] md:flex justify-beetwen md:gap-10 lg:gap-14 xl:w-[95%] xl:mx-auto xl:gap-[200px]">
+    <section class="px-4 mt-[104px] md:mt-[128px] xl:mt-[200px] md:flex justify-beetwen md:gap-10 lg:gap-14 xl:w-[95%] xl:mx-auto xl:gap-[200px]">
         <div class="md:w-[50%]">
             <div>
                 <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">Bizning shifokorlarimiz</h1>
-                <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Shifokorlarimiz ko’p yillik tajribaga ega. Ular O’zbekistonning turli nuqtalaridan turib sizga barcha yordamlarni bera olishadi</p>
             </div>
             <div class="mt-[40px] md:mt-[44px] xl:flex xl:mt-[56pxpx]">
                 <div>
                     <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">10 yil </h1>
-                    <p class="text-[16px] text-[#424259] font-[400] mt-[10px] font-rubik">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore  </p>
+                    <p class="text-[16px] text-[#424259] font-[400] mt-[10px] font-rubik">Shifokorlarimizning ko’pchiligi 10 yil va undan ortiq tajriba va ko’nikmalarga ega</p>
                 </div>
                 <div class="mt-[24px] xl:mt-0 xl:ml-[64px]">
                     <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">23k+</h1>
-                    <p class="text-[16px] text-[#424259] font-[400] mt-[10px] font-rubik">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore  </p>
+                    <p class="text-[16px] text-[#424259] font-[400] mt-[10px] font-rubik">Har oy biz 23 mingdan ortiq bemorlarga xizmat ko’rsatamiz va bu sonlar har oy oshib bormoqda</p>
                 </div>
             </div>
         </div>

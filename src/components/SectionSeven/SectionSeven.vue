@@ -1,14 +1,11 @@
 <template>
-    <section class="px-2 mt-[104px] md:mt-[128px] xl:mt-[200px]">
+    <section class="px-2 md:px-4 lg:px-0 xl:px-4 2xl:px-0 mt-[104px] md:mt-[128px] xl:mt-[200px]">
         <div class="container mx-auto ">
-            <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] pt-[48px] font-rubik">Bizning mijozlarimiz fikrlari</h1>
-            <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] pt-[48px] font-rubik">Bizning mijozlarimiz fikrlarimiz</h1>
+            <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Bizning mijozlarimiz fikrlari bizning xizmatlarimiz va shifokorlar xizmatlari haqida so’zlaydi. Xizmatlarimizdan foydalangan har bir odam mamnun va xursand.</p>
         </div>
         <Card class=" md:hidden mt-[40px]"/>
         <CardTwo class="hidden md:block mt-[72px] xl:mt-[88px]"/>
-        <div class="container mx-auto md:mt-[97px]">
-            <p class="text-[16px] font-[500] text-[#42425] font-rubik">Xizmatlarimiz <span class="text-[16px] font-[500] text-[#2588AF] font-rubik">100+</span> odamlarni xursand qilgan</p>
-        </div>
     </section>
 </template>
 

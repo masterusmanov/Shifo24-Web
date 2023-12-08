@@ -1,5 +1,5 @@
 <template>
-    <footer class="mt-[112px] bg-[#F5F5F6] py-[30px]">
+    <footer class="mt-[112px] md:mt-[150px] xl:mt-[200px] bg-[#F5F5F6] py-[30px]">
         <div class="container mx-auto px-5 md:flex md:gap-[50px]">
             <div class="md:w-[33%]">
                 <div class="w-[100%] flex items-center gap-2 md:w-[100%]">
@@ -8,7 +8,7 @@
                     </svg>
                     <h1 class="font-bold text-[26.5px] font-rubik">Shifo<span class="text-[#505069] font-rubik">24</span></h1>
                 </div>
-                <p class="text-[16px] text-[#424259] font-[400] mt-[24px] font-rubik">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+                <p class="text-[16px] text-[#424259] font-[400] mt-[24px] font-rubik">Virtual parvarish, haqiqiy ta'sir: sizning sog'lig'ingiz, bizning majburiyatimiz, istalgan vaqtda, istalgan joyda</p>
             </div>
             <div class="mt-[40px] md:w-[30%] md:mt-0 xl:ml-[180px]">
                 <h2 class="text-[16px] font-[700] text-[#424259]">Xizmatlar</h2>
@@ -21,7 +21,7 @@
             <div class="mt-[40px] md:w-[40%] md:mt-0">
                 <h2 class="text-[16px] font-[700] text-[#424259] font-rubik">Aloqa raqami</h2>
                 <div class="grid gap-[16px] mt-[16px]">
-                    <p class="text-[16px] font-[400] text-[#2588AF] font-rubik">+998 (99) 999-90-99</p>
+                    <p class="text-[16px] font-[400] text-[#2588AF] font-rubik">+998 (98) 100-36-31</p>
                 </div>
                 <div class="mt-[24px]">
                     <h2 class="text-[16px] font-[700] text-[#424259] font-rubik">Mobil ilovamizni yuklab oling</h2>

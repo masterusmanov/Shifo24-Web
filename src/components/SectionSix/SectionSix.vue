@@ -1,7 +1,7 @@
 <template>
-    <section class="px-4 mt-[104px] md:px-0 md:mt-[128px] xl:mt-[200px] xl:px-4 bg-[#F5F5F6] 2xl:px-0">
+    <section class="px-4 mt-[104px] md:mt-[128px] xl:mt-[200px] xl:px-4 bg-[#F5F5F6] 2xl:px-0">
        <div class="container mx-auto pb-[48px] md:flex items-center md:gap-[70px] lg:gap-[150px] xl:gap-[120px]">
-            <div class="md:w-[45%] xl:w-[40%] xl:px-4">
+            <div class="md:w-[45%] xl:w-[35%] xl:px-4">
                 <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] pt-[48px] font-rubik">Biz bilan bog’laning</h1>
                 <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Ma’lumotlaringizni bizga qoldiring, biz albatta sizga o’zimiz aloqaga chiqamiz</p>
                 <input type="text" placeholder="Ismingiz" class="w-[100%] h-[60px] mt-[40px] text-[#2588AF] bg-[#E0EAEF] rounded-[10px] outline-none border-none">
