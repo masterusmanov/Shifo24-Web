@@ -1,7 +1,9 @@
 <template>
     <section class="px-2 mt-[104px] hidden md:block lg:mt-[150px] xl:mt-[250px] xl:px-4 2xl:px-0">
-        <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">Bizning ilovamiz xususiyatlari bilan tanishing</h1>
-        <p class="text-[16px] text-[#424259] font-[400] mt-[16px] w-[60%] font-rubik">Ilovamiz barcha xususiyatlari bemorlar va foydalanuvchilar uchun qulay va tushunarli</p>
+        <div class="md:px-2 lg:px-0">
+            <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">Bizning ilovamiz xususiyatlari bilan tanishing</h1>
+            <p class="text-[16px] text-[#424259] font-[400] mt-[16px] w-[60%] font-rubik">Ilovamiz barcha xususiyatlari bemorlar va foydalanuvchilar uchun qulay va tushunarli</p>
+        </div>
         <div class="flex flex-wrap mt-[48px] xl:justify-center xl:mt-[64px]">
             <div class="w-[480px] h-[210px] bg-[#F5F5F6] rounded-[32px] flex lg:w-[650px] lg:h-[312px] lg:items-center xl:w-[704px] xl:h-[350px] 2xl:w-[880px]">
                 <div class=" w-[280px] p-4 lg:w-[384px] lg:p-6 xl:w-[420px] 2xl:w-[500px] 2xl:p-10">

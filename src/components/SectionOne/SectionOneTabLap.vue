@@ -1,5 +1,5 @@
 <template>
-    <section class="hidden md:block mt-[80px] 2xl:mt-[160px] xl:px-4 2xl:px-0">
+    <section class="hidden md:block mt-[80px] 2xl:mt-[160px] md:px-4 lg:px-0 xl:px-4 2xl:px-0">
         <div class="flex justify-center gap-14">
             <h1 class="w-[60%] text-[27px] font-[700] text-[#424259] xl:text-[47px] font-rubik">Shifo24 - "Sizning sog'ligingiz, sizning tartibingiz: Uzluksiz online shifokor qabuli!"</h1>
             <div class="w-[40%]">
