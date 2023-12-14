@@ -15,7 +15,7 @@
                     </div>
                 </div>
             </div>
-            <img src="../../assets/image/phones/iphone6.png" alt="iphone" class="hidden md:block w-[339px] h-[338px] lg:w-[439px] lg:h-[438px] xl:w-[539px] xl:h-[538px] 2xl:w-[639px] 2xl:h-[638px] 2xl:mt-[50px] 2xl:ml-[80px]">
+            <img src="../../assets/image/phones/7.svg" alt="iphone" class="hidden md:block w-[339px] h-[338px] lg:w-[439px] lg:h-[438px] xl:w-[539px] xl:h-[538px] 2xl:w-[639px] 2xl:h-[638px] 2xl:mt-[50px] 2xl:ml-[80px]">
        </div>
     </section>
 </template>

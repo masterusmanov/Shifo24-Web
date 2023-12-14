@@ -30,7 +30,7 @@
                 </div>
             </div>
         </div>
-        <img src="../../assets/image/phones/iphone5.png" alt="phone" class=" mt-[64px] mx-auto md:w-[55%] md:h-[550px] lg:mt-0 lg:w-[40%] lg:h-[500px] xl:w-[35%] xl:h-[550px] 2xl:w-[25%] 2xl:h-[450px]">
+        <img src="../../assets/image/phones/6.png" alt="phone" class=" mt-[64px] mx-auto md:w-[50%] md:h-[550px] lg:mt-0 lg:w-[32%] lg:h-[500px] xl:w-[30%] xl:h-[550px] 2xl:w-[21%] 2xl:h-[450px]">
 </section>
 </template>
 

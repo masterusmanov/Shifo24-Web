@@ -1,17 +1,14 @@
 <template>
     <section class="hidden md:block mt-[80px] 2xl:mt-[160px] md:px-4 lg:px-0 xl:px-4 2xl:px-0">
-        <div class="hidden xl:flex w-[320px] bg-[#F5F5F6] rounded-[32px] absolute ml-[830px] mt-[200px] 2xl:w-[400px] 2xl:ml-[1000px]">
-            <img src="../../assets/image/phones/1.svg" alt="phone" class=" py-[32px] px-[62px] 2xl:py-[40px] 2xl:px-[90px]">
-        </div>
         <div class="flex justify-center gap-14">
             <h1 class="w-[60%] text-[27px] font-[700] text-[#424259] xl:text-[47px] font-rubik">Shifo24 - "Sizning sog'ligingiz, sizning tartibingiz: Uzluksiz online shifokor qabuli!"</h1>
-            <div class="w-[40%] lg:ml-[150px]">
+            <div class="w-[40%]">
                 <h2 class="lg:w-[80%] xl:w-[60%] text-[#424259] text-[16px] font-[400] xl:mt-[20px] font-rubik">Istalgan vaqtda, istalgan joyda uchrashuvlarni bron qiling</h2>
                 <button class="w-[80%] rounded-[6px] py-[14px] px-[28px] mt-[24px] bg-[#2588AF] text-white text-[16px] lg:w-[70%] xl:w-[50%] font-[700] font-rubik">Ilovani yuklab olish</button>
             </div>
         </div>
-        <div class="w-[30%] bg-[#F5F5F6] rounded-[32px] xl:hidden absolute ml-[470px] lg:ml-[700px] lg:mt-[40px] lg:w-[20%]">
-            <img src="../../assets/image/phones/1.svg" alt="phone" class="py-[25px] px-[40px]">
+        <div class="hidden xl:flex w-[35%] h-[400px] bg-[#F5F5F6] rounded-[32px] absolute ml-[770px] 2xl:w-[564px] 2xl:ml-[950px] 2xl:h-[500px]">
+            <img src="../../assets/image/phones/1.svg" alt="phone" class=" pt-[32px] px-[62px] 2xl:pt-[40px] 2xl:px-[90px]">
         </div>
         <div class="flex mt-[104px]">
             <div class="w-[30%] xl:w-[25%] 2xl:w-[20%]">
@@ -26,6 +23,9 @@
                     <img src="../../assets/image/cliyent/up.svg" alt="" class="w-[50px] p-3 h-[50px] border border-xl-white absolute ml-[15%] mt-[4px] bg-[#2588AF] rounded-full lg:ml-[9%] 2xl:ml-[5.1%]">
                 </div>
                 <p class="text-[16px] text-[#424259] leading-[15.708px] mt-[22px] font-[400] xl:mt-[40px] 2xl:mt-[25px] font-rubik">Bemorlarimiz fikr va mulohazalarini tinglang</p>
+            </div>
+            <div class="w-[30%] bg-[#F5F5F6] rounded-[32px] xl:hidden">
+                <img src="../../assets/image/phones/1.svg" alt="phone" class="pt-[25px] px-[40px]">
             </div>
         </div>
     </section>
