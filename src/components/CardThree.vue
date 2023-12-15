@@ -7,9 +7,35 @@
                         <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
                     </div>
                     <div class="flex items-center gap-4 pl-4 pt-4">
-                        <img src="../assets/image/cliyent/Ellipse 1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
+                        <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                         <div class="">
                             <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-[300px] h-[285px] mx-auto rounded-[16px] border md:w-[360px] lg:w-[335px] xl:w-[410px] 2xl:w-[505px] xl:h-[242px] 2xl:h-[232px] slide aspect-square  flex-shrink-0 snap-center overflow-hidden">
+                <div class="">
+                    <div class=" mt-[24px]">
+                        <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
+                    </div>
+                    <div class="flex items-center gap-4 pl-4 pt-4">
+                        <img src="../assets/image/cliyent/Ellipse 1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
+                        <div class="">
+                            <h2 class="text-[16px] font-[700] font-rubik">Jane Cooper</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-[300px] h-[285px] mx-auto rounded-[16px] border md:w-[360px] lg:w-[335px] xl:w-[410px] 2xl:w-[505px] xl:h-[242px] 2xl:h-[232px] slide aspect-square  flex-shrink-0 snap-center overflow-hidden">
+                <div class="">
+                    <div class=" mt-[24px]">
+                        <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
+                    </div>
+                    <div class="flex items-center gap-4 pl-4 pt-4">
+                        <img src="../assets/image/cliyent/Ellipse 3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
+                        <div class="">
+                            <h2 class="text-[16px] font-[700] font-rubik">Darlene Robertson</h2>
                         </div>
                     </div>
                 </div>
@@ -33,35 +59,9 @@
                         <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
                     </div>
                     <div class="flex items-center gap-4 pl-4 pt-4">
-                        <img src="../assets/image/cliyent/Ellipse 3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
-                        <div class="">
-                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="w-[300px] h-[285px] mx-auto rounded-[16px] border md:w-[360px] lg:w-[335px] xl:w-[410px] 2xl:w-[505px] xl:h-[242px] 2xl:h-[232px] slide aspect-square  flex-shrink-0 snap-center overflow-hidden">
-                <div class="">
-                    <div class=" mt-[24px]">
-                        <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
-                    </div>
-                    <div class="flex items-center gap-4 pl-4 pt-4">
                         <img src="../assets/image/cliyent/Ellipse 1.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                         <div class="">
-                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="w-[300px] h-[285px] mx-auto rounded-[16px] border md:w-[360px] lg:w-[335px] xl:w-[410px] 2xl:w-[505px] xl:h-[242px] 2xl:h-[232px] slide aspect-square  flex-shrink-0 snap-center overflow-hidden">
-                <div class="">
-                    <div class=" mt-[24px]">
-                        <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
-                    </div>
-                    <div class="flex items-center gap-4 pl-4 pt-4">
-                        <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
-                        <div class="">
-                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
+                            <h2 class="text-[16px] font-[700] font-rubik">Jane Cooper</h2>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                     <div class="flex items-center gap-4 pl-4 pt-4">
                         <img src="../assets/image/cliyent/Ellipse 3.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 md:ml-2 md:mt-2 lg:ml-[24px] lg:mt-0">
                         <div class="">
-                            <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
+                            <h2 class="text-[16px] font-[700] font-rubik">Darlene Robertson</h2>
                         </div>
                     </div>
                 </div>
