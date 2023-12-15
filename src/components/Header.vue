@@ -7,7 +7,7 @@
                 </svg>
                 <h1 class="font-[500] text-[26.5px] font-rubik">Shifo24</h1>
             </div>
-            <div id="navbar" class="hidden md:flex w-[70%] justify-end items-center gap-6 lg:gap-14 font-[400] font-rubik">
+            <div id="navbar" class="hidden md:flex w-[70%] justify-end items-center gap-6 lg:gap-14 font-[400] font-rubik xl:text-[21px]">
                 <a href="#about">Biz haqimizda</a>
                 <a href="#feature">Hususiyatlar</a>
                 <a href="#patient">Bemorlar</a>

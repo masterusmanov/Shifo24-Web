@@ -10,8 +10,8 @@
                 <div class="">
                     <h1 class="text-[21px] text-[#424259] font-[700] xl:text-[28px] pt-[48px] font-rubik">Mobil ilovamizni yuklab oling</h1>
                     <div class="flex items-center gap-4 mt-[24px]">
-                        <a href="#"><img src="../../assets/image/store/Play market.png" alt="playmarket" class="w-[80%]"></a>
-                        <a href="#"><img src="../../assets/image/store/App Store Button.png" alt="AppStore" class="w-[80%]"></a>
+                        <a href="#"><img src="../../assets/image/store/Play market.png" alt="playmarket" class="w-[149px]"></a>
+                        <a href="#"><img src="../../assets/image/store/App Store Button.png" alt="AppStore" class="w-[132px]"></a>
                     </div>
                 </div>
             </div>
