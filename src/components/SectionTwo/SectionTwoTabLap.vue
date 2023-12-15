@@ -17,15 +17,15 @@
                 <img src="../../assets/image/phones/2.svg" alt="phone" class=" h-[135px] pt-[11px] px-[50px] lg:w-[350px] lg:h-[220px] lg:px-[40px] xl:w-[450px] xl:h-[325px] xl:px-[70px] mx-auto">
             </div>
             <div class="w-[240px] h-[210px] bg-[#F5F5F6] rounded-[32px] mt-[24px] lg:w-[323px] lg:h-[312px] xl:w-[496px] xl:h-[350px] 2xl:w-[600px]">
-                <h3 class="text-[21px] text-[#424259] mx-auto font-[700] pt-[20px] text-center lg:text-[27px] lg:w-[90%] font-rubik">Statistikaning mavjudligi</h3>
-                <img src="../../assets/image/phones/4.svg" alt="phone" class="h-[125px] pt-[11px] px-[50px] lg:w-[350px] lg:h-[210px] lg:px-[40px] xl:w-[450px] xl:h-[290px] xl:px-[70px] mx-auto">
+                <h3 class="text-[21px] text-[#424259] mx-auto font-[700] pt-[20px] text-center lg:text-[27px] lg:w-[90%] font-rubik">Shifokorlar bilan suhbat</h3>
+                <img src="../../assets/image/phones/iphone3.svg" alt="phone" class="h-[125px] pt-[11px] px-[50px] lg:w-[350px] lg:h-[210px] lg:px-[40px] xl:w-[450px] xl:h-[290px] xl:px-[70px] mx-auto">
             </div>
             <div class="w-[480px] h-[210px] bg-[#F5F5F6] rounded-[32px] flex mt-[24px] ml-[24px] lg:w-[650px] lg:h-[312px] lg:items-center lg:ml-[35px] xl:w-[704px] xl:h-[350px] 2xl:w-[880px] 2xl:ml-[40px]">
                 <div class="w-[280px] p-4  lg:w-[384px] lg:p-6 xl:w-[420px] 2xl:w-[500px] 2xl:p-10">
-                    <h3 class="text-[21px] text-[#424259] font-[700] pt-[32px] lg:text-[27px] font-rubik">Chat</h3>
-                    <p class="text-[16px] text-[#424259] font-[400] mt-[16px] lg:mt-[20px] opacity-70 font-rubik">Har bir bitta shifokor bilan to’gridan to’g’ri aloqaga chiqish mavjud</p>
+                    <h3 class="text-[21px] text-[#424259] font-[700] pt-[32px] lg:text-[27px] font-rubik">Statistik tahlil</h3>
+                    <p class="text-[16px] text-[#424259] font-[400] mt-[16px] lg:mt-[20px] opacity-70 font-rubik">Har kunlik, haftalik, oylik va yillik statiskani ko’rishning mavjudligi</p>
                 </div>
-                <img src="../../assets/image/phones/3.svg" alt="phone" class="w-[160px] pt-[30px] lg:w-[280px] lg:h-[312px] lg:pt-[38px] lg:pr-[40px] xl:h-[350px] 2xl:w-[300px] 2xl:pr-0">
+                <img src="../../assets/image/phones/iphone4.svg" alt="phone" class="w-[160px] pt-[30px] lg:w-[280px] lg:h-[312px] lg:pt-[38px] lg:pr-[40px] xl:h-[350px] 2xl:w-[300px] 2xl:pr-0">
             </div>
         </div>
     </section>
