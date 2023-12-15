@@ -20,7 +20,7 @@
                     <img src="../../assets/image/cliyent/Ellipse 1.png" alt="client" class="w-[56px] h-[56px]">
                     <img src="../../assets/image/cliyent/Ellipse 2.png" alt="client" class="w-[56px] h-[56px] absolute ml-[5%] lg:ml-[3%] 2xl:ml-[1.7%]">
                     <img src="../../assets/image/cliyent/Ellipse 3.png" alt="client" class="w-[56px] h-[56px] absolute ml-[10%] lg:ml-[6%] 2xl:ml-[3.4%]">
-                    <img src="../../assets/image/cliyent/up.svg" alt="" class="w-[50px] p-3 h-[50px] border border-xl-white absolute ml-[15%] mt-[4px] bg-[#2588AF] rounded-full lg:ml-[9%] 2xl:ml-[5.1%]">
+                    <a href="#faq" class="absolute ml-[15%] mt-[4px] lg:ml-[9%] 2xl:ml-[5.1%]"><img src="../../assets/image/cliyent/up.svg" alt="" class="w-[56px] p-3 h-[56px] border-[4px] border-white bg-[#2588AF] rounded-full"></a>
                 </div>
                 <p class="text-[16px] text-[#424259] leading-[15.708px] mt-[22px] font-[400] xl:mt-[40px] 2xl:mt-[25px] font-rubik">Bemorlarimiz fikr va mulohazalarini tinglang</p>
             </div>

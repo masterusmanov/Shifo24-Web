@@ -8,27 +8,16 @@
                 <h1 class="font-[500] text-[26.5px] font-rubik">Shifo24</h1>
             </div>
             <div id="navbar" class="hidden md:flex w-[70%] justify-end items-center gap-6 lg:gap-14 font-[400] font-rubik">
-                <router-link to="#">Biz haqimizda</router-link>
-                <router-link to="#">Hususiyatlar</router-link>
-                <router-link to="#">Bemorlar</router-link>
-                <button class="font-[500] py-[10px] px-[20px] border border-[#2588AF] rounded-lg font-rubik text-[#2588AF]">Bog'lanish</button>
+                <a href="#about">Biz haqimizda</a>
+                <a href="#">Hususiyatlar</a>
+                <a href="#">Bemorlar</a>
+                <button class="font-[500] py-[10px] px-[20px] border border-[#2588AF] rounded-lg font-rubik text-[#2588AF] hover:text-white hover:bg-[#2588AF]">Bog'lanish</button>
             </div>
-            <div id="menu" class="w-[10%] float-right md:hidden">            
-                <button id="dropdownHoverButton" data-dropdown-toggle="dropdownHover" data-dropdown-trigger="hover" class="" type="button float-right"><i class='bx bx-menu text-[36px]'></i></button>
-                    <!-- Dropdown menu -->
-                    <div id="dropdownHover" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-[120px] dark:bg-gray-700">
-                        <ul class="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownHoverButton">
-                            <li>
-                                <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Biz haqimizda</a>
-                            </li>
-                            <li>
-                                <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Hususiyatlar</a>
-                            </li>
-                            <li>
-                                <a href="#" class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Bemorlar</a>
-                            </li>
-                        </ul>
-                    </div>
+            <div id="menu" class="w-[10%] float-right md:hidden">
+                <div @click="open">
+                    <a href="#" ><i class='bx bx-menu text-[36px]'></i></a>
+                </div>
+                <Menu @close="close" v-if="modal1"/>            
             </div>
         </div>
    </header>
@@ -36,6 +25,19 @@
 
 <script setup>
     import { Dropdown } from 'flowbite';
+    import Menu from './Menu.vue';
+
+    import { ref } from "vue";
+
+    const modal1 = ref(false);
+
+    const open = () => {
+        modal1.value = true;
+    };
+    
+    const close = () => {
+        modal1.value = false;
+    };
 </script>
 
 <style lang="scss" scoped>

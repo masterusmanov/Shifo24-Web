@@ -1,5 +1,5 @@
 <template>
-    <section class="px-4 mt-[104px] md:mt-[128px] xl:mt-[200px] md:flex justify-beetwen md:gap-10 lg:gap-14 xl:w-[95%] xl:mx-auto xl:gap-[200px]">
+    <section id="about" class="px-4 mt-[104px] md:mt-[128px] xl:mt-[200px] md:flex justify-beetwen md:gap-10 lg:gap-14 xl:w-[95%] xl:mx-auto xl:gap-[200px]">
         <div class="md:w-[50%]">
             <div>
                 <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">Bizning shifokorlarimiz</h1>

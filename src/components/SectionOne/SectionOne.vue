@@ -1,6 +1,6 @@
 <template>
     <section class="mt-[32px] px-2 md:hidden">
-        <h1 class="text-[27px] font-[500] text-[#424259] font-sans px-2 font-rubik">Shifo24 - "Sizning sog'ligingiz, sizning tartibingiz: Uzluksiz online shifokor qabuli!"</h1>
+        <h1 class="text-[27px] font-[700] text-[#424259] px-2 font-rubik">Shifo24 - "Sizning sog'ligingiz, sizning tartibingiz: Uzluksiz online shifokor qabuli!"</h1>
         <div class="flex justify-center gap-4 mt-[56px]">
             <div class="px-2 w-[48%]">
                 <h1 class="text-[27px] font-[700] text-[#424259] leading-[35.3px] font-rubik">14<span class="text-[#2588AF] text-[27px] font-[700] leading-[35.3px] font-rubik">+</span></h1>
@@ -11,7 +11,7 @@
                     <img src="../../assets/image/cliyent/Ellipse 1.png" alt="client" class="w-[48px] h-[48px]">
                     <img src="../../assets/image/cliyent/Ellipse 2.png" alt="client" class="w-[48px] h-[48px] absolute ml-[8%]">
                     <img src="../../assets/image/cliyent/Ellipse 3.png" alt="client" class="w-[48px] h-[48px] absolute ml-[16%]">
-                    <img src="../../assets/image/cliyent/up.svg" alt="" class="w-[40px] h-[40px] border border-xl p-2 border-white absolute ml-[24%] mt-[4px] bg-[#2588AF] rounded-full">
+                    <a href="#faq" class="absolute ml-[24%] mt-[4px]"><img src="../../assets/image/cliyent/up.svg" alt="" class="w-[48px] h-[48px] border-[4px] p-2 border-white bg-[#2588AF] rounded-full"></a>
                 </div>
                 <p class="text-[12px] text-[#424259] leading-[15.708px] mt-[8px] font-rubik">Bemorlarimiz fikr va mulohazalarini tinglang</p>
             </div>

@@ -1,5 +1,5 @@
 <template>
-    <section class="px-2 mt-[104px] hidden md:block lg:mt-[150px] xl:mt-[250px] xl:px-4 2xl:px-0">
+    <section class="px-2 mt-[104px] hidden md:block lg:mt-[150px] xl:mt-[250px] xl:px-4 2xl:px-0 2xl:mt-[450px]">
         <div class="md:px-2 lg:px-0">
             <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">Bizning ilovamiz xususiyatlari bilan tanishing</h1>
             <p class="text-[16px] text-[#424259] font-[400] mt-[16px] w-[60%] font-rubik">Ilovamiz barcha xususiyatlari bemorlar va foydalanuvchilar uchun qulay va tushunarli</p>

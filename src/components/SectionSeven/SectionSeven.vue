@@ -1,17 +1,15 @@
 <template>
-    <section class="px-2 md:px-4 lg:px-0 xl:px-4 2xl:px-0 mt-[104px] md:mt-[128px] xl:mt-[200px]">
+    <section class="px-4 lg:px-0 xl:px-4 2xl:px-0 mt-[80px] md:mt-[100px] xl:mt-[200px]">
         <div class="container mx-auto ">
             <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] pt-[48px] font-rubik">Bizning mijozlarimiz fikrlarimiz</h1>
             <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Bizning mijozlarimiz fikrlari bizning xizmatlarimiz va shifokorlar xizmatlari haqida so’zlaydi. Xizmatlarimizdan foydalangan har bir odam mamnun va xursand.</p>
         </div>
-        <Card class=" md:hidden mt-[40px]"/>
-        <CardTwo class="hidden md:block mt-[72px] xl:mt-[88px]"/>
+        <CardThree class="mt-[40px] md:mt-[48px] xl:mt-[64px]"/>
     </section>
 </template>
 
 <script setup>
-    import Card from '../Card.vue';
-    import CardTwo from '../CardTwo.vue';
+    import CardThree from '../CardThree.vue';
 </script>
 
 <style lang="scss" scoped>

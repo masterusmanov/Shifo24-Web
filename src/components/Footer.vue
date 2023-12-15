@@ -25,8 +25,8 @@
                 </div>
                 <div class="mt-[24px]">
                     <h2 class="text-[16px] font-[700] text-[#424259] font-rubik">Mobil ilovamizni yuklab oling</h2>
-                    <div class="flex justify-center items-center gap-6 mx-auto mt-[24px]">
-                        <a href="#"><img src="../assets/image/store/Play market.png" alt="playmarket" class="w-[80%] mx-auto"></a>
+                    <div class="flex items-center gap-2 mt-[24px]">
+                        <a href="#"><img src="../assets/image/store/Play market.png" alt="playmarket" class="w-[80%]"></a>
                         <a href="#"><img src="../assets/image/store/App Store Button.png" alt="AppStore" class="w-[80%]"></a>
                     </div>
                 </div>

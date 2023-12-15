@@ -1,6 +1,6 @@
 <template>
     <section class="px-4 mt-[104px] md:hidden">
-        <h1 class="text-[27px] text-[#424259] font-[500] font-rubik">Bizning ilovamiz xususiyatlari bilan tanishing</h1>
+        <h1 class="text-[27px] text-[#424259] font-[700] font-rubik">Bizning ilovamiz xususiyatlari bilan tanishing</h1>
         <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Ilovamiz barcha xususiyatlari bemorlar va foydalanuvchilar uchun qulay va tushunarli</p>
         <div class="w-[90%] mx-auto bg-[#F5F5F6] rounded-[32px] mt-[48px]">
             <h3 class="text-[21px] text-[#424259] font-[700] pt-[32px] text-center font-rubik">Ommabop bo’limlar</h3>

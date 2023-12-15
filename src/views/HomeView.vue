@@ -29,5 +29,7 @@
 </script>
 
 <style lang="scss" scoped>
-
+    *{
+        scroll-behavior: smooth;
+    }
 </style>
