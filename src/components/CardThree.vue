@@ -6,7 +6,7 @@
                     <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
                 </div>
                 <div class="flex items-center gap-4 pt-4">
-                    <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 ml-3  md:mt-2 lg:mt-0">
+                    <img src="../assets/image/cliyent/Ellipse 2.png" alt="icon" class="w-[44px] h-[44px] md:mx-0 ml-3 md:ml-3 md:mt-2 lg:mt-0">
                     <div class="">
                         <h2 class="text-[16px] font-[700] font-rubik">Brooklyn Simmons</h2>
                     </div>
