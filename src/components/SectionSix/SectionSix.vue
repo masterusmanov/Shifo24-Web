@@ -1,5 +1,5 @@
 <template>
-    <section id="faq" class="px-4 mt-[104px] md:mt-[128px] xl:mt-[200px] xl:px-4 bg-[#F5F5F6] 2xl:px-0">
+    <section class="px-4 mt-[104px] md:mt-[128px] xl:mt-[200px] xl:px-4 bg-[#F5F5F6] 2xl:px-0">
        <div class="container mx-auto pb-[48px] md:flex items-center md:gap-[70px] lg:gap-[150px] xl:gap-[120px]">
             <div class="md:w-[45%] xl:w-[35%] xl:px-4">
                 <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] pt-[48px] font-rubik">Biz bilan bog’laning</h1>

@@ -1,5 +1,5 @@
 <template>
-    <section class="px-4 lg:px-0 xl:px-4 2xl:px-0 mt-[80px] md:mt-[100px] xl:mt-[200px]">
+    <section id="faq" class="px-4 lg:px-0 xl:px-4 2xl:px-0 mt-[80px] md:mt-[100px] xl:mt-[200px]">
         <div class="container mx-auto ">
             <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] pt-[48px] font-rubik">Bizning mijozlarimiz fikrlarimiz</h1>
             <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Bizning mijozlarimiz fikrlari bizning xizmatlarimiz va shifokorlar xizmatlari haqida so’zlaydi. Xizmatlarimizdan foydalangan har bir odam mamnun va xursand.</p>
