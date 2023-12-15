@@ -9,8 +9,8 @@
             </div>
             <div id="navbar" class="hidden md:flex w-[70%] justify-end items-center gap-6 lg:gap-14 font-[400] font-rubik">
                 <a href="#about">Biz haqimizda</a>
-                <a href="#">Hususiyatlar</a>
-                <a href="#">Bemorlar</a>
+                <a href="#feature">Hususiyatlar</a>
+                <a href="#patient">Bemorlar</a>
                 <button class="font-[500] py-[10px] px-[20px] border border-[#2588AF] rounded-lg font-rubik text-[#2588AF] hover:text-white hover:bg-[#2588AF]">Bog'lanish</button>
             </div>
             <div id="menu" class="w-[10%] float-right md:hidden">

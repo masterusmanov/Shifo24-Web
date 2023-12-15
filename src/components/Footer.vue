@@ -13,9 +13,9 @@
             <div class="mt-[40px] md:w-[30%] md:mt-0 xl:ml-[180px]">
                 <h2 class="text-[16px] font-[700] text-[#424259]">Xizmatlar</h2>
                 <div class="grid gap-[16px] mt-[16px]">
-                    <router-link to="#" class="text-[16px] font-[400] text-[#424259] font-rubik">Biz haqimizda</router-link>
-                    <router-link to="#" class="text-[16px] font-[400] text-[#424259] font-rubik">Maxfiylik va xavfsizlik</router-link>
-                    <router-link to="#" class="text-[16px] font-[400] text-[#424259] font-rubik">Qo’llab quvvatlash</router-link>
+                    <a href="#about" class="text-[16px] font-[400] text-[#424259] font-rubik">Biz haqimizda</a>
+                    <a href="#feature" class="text-[16px] font-[400] text-[#424259] font-rubik">Maxfiylik va xavfsizlik</a>
+                    <a href="#patient" class="text-[16px] font-[400] text-[#424259] font-rubik">Qo’llab quvvatlash</a>
                 </div>
             </div>
             <div class="mt-[40px] md:w-[40%] md:mt-0">

@@ -1,5 +1,5 @@
 <template>
-    <section class="px-2 md:px-4 lg:px-0 mt-[104px] md:mt-[128px] xl:mt-[200px] md:flex md:gap-5 lg:gap-14 xl:w-[95%] xl:mx-auto xl:gap-[200px]">
+    <section id="patient" class="px-2 md:px-4 lg:px-0 mt-[104px] md:mt-[128px] xl:mt-[200px] md:flex md:gap-5 lg:gap-14 xl:w-[95%] xl:mx-auto xl:gap-[200px]">
         <div class="md:w-[45%] lg:w-[50%] xl:w-[40%] px-2 md:px-0">
             <h1 class="text-[27px] text-[#424259] font-[700] xl:text-[36px] font-rubik">Bemorlar</h1>
             <p class="text-[16px] text-[#424259] font-[400] mt-[16px] font-rubik">Har bir bemor uchun qulay xizmatlar</p>

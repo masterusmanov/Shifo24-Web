@@ -19,10 +19,10 @@
                     <a href="#about" @click="emitClose" class="text-[18px] block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Biz haqimizda</a>
                 </li>
                 <li>
-                    <a href="#" @click="emitClose" class="text-[18px] block my-[22px] px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Hususiyatlar</a>
+                    <a href="#feature" @click="emitClose" class="text-[18px] block my-[22px] px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Hususiyatlar</a>
                 </li>
                 <li>
-                    <a href="#" @click="emitClose" class="text-[18px] block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Bemorlar</a>
+                    <a href="#patient" @click="emitClose" class="text-[18px] block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Bemorlar</a>
                 </li>
                 <li class="my-[32px] ">
                     <button class="w-[342px] mx-[8px] font-[500] py-[10px] px-[20px] border border-[#2588AF] rounded-lg font-rubik text-[#2588AF] hover:text-white hover:bg-[#2588AF]">Bog'lanish</button>
