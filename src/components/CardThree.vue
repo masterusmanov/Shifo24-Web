@@ -2,7 +2,7 @@
     <div class=" container mx-auto relative">
         <div class="slides-container h-72 flex snap-x snap-mandatory overflow-hidden overflow-x-auto space-x-6 rounded scroll-smooth before:w-[45vw] before:shrink-0 after:w-[45vw] after:shrink-0 md:before:w-0 md:after:w-0" ref="slidesContainer">
             <div class="w-[325px] h-[285px] mx-auto rounded-[16px] border md:w-[350px] lg:w-[325px] xl:w-[400px] 2xl:w-[490px] xl:h-[242px] 2xl:h-[232px] slide aspect-square  flex-shrink-0 snap-center overflow-hidden">
-                <div class=" mt-[24px] h-[180px]">
+                <div class=" mt-[24px] h-[180px] xl:h-[140px] 2xl:h-[120px]">
                     <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 mobil ilovasining butun xodimlari bemorni parvarish qilish bo'yicha qat'iy sodiqligini namoyish etadi. Tibbiyot mutaxassislari nafaqat yuqori malakali, balki chinakam g'amxo'rlik qilishadi. Barcha shifokorlariga rahmat!</p>
                 </div>
                 <div class="flex items-center gap-4 pt-4">
@@ -13,7 +13,7 @@
                 </div>
             </div>
             <div class="w-[325px] h-[285px] mx-auto rounded-[16px] border md:w-[350px] lg:w-[325px] xl:w-[400px] 2xl:w-[490px] xl:h-[242px] 2xl:h-[232px] slide aspect-square  flex-shrink-0 snap-center overflow-hidden">
-                <div class=" mt-[24px] h-[180px]">
+                <div class=" mt-[24px] h-[180px] xl:h-[140px] 2xl:h-[120px]">
                     <p class="text-[16px] px-4 text-justify font-rubik">Shifo24 dagi eng bilimli va ko’p yillik tajribaga ega shifokorlar ularning eng yaxshi sog'liqni saqlashni ta'minlashga sodiqliklaridan dalolat beradi. Har bir shifokorning bemorlar bilan qiladigan muomala ma’daniyati va bemorlarni tinglashi menga juda yoqdi.</p>
                 </div>
                 <div class="flex items-center gap-4 pt-4">
@@ -25,7 +25,7 @@
             </div>
             <div class="w-[325px] h-[285px] mx-auto rounded-[16px] border md:w-[350px] lg:w-[325px] xl:w-[400px] 2xl:w-[490px] xl:h-[242px] 2xl:h-[232px] slide aspect-square  flex-shrink-0 snap-center overflow-hidden">
                 <div class="">
-                    <div class=" mt-[24px] h-[180px]">
+                    <div class=" mt-[24px] h-[180px] xl:h-[140px] 2xl:h-[120px]">
                         <p class="text-[16px] px-4 text-justify font-rubik">Shifo24-ni chinakamiga ajratib turadigan narsa bu jamoadagi har bir kishi tomonidan ko'rsatiladigan samimiy hamdardlikdir. Har bir shifokor bemorlarning savollariga to’liq va tushunarli qilib javob bera oladi.</p>
                     </div>
                     <div class="flex items-center gap-4 pt-4">
