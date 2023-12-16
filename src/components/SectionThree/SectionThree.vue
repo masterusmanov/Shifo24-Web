@@ -47,7 +47,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
                         <circle cx="6" cy="6" r="6" fill="#2588AF"/>
                     </svg>
-                    <div class="w-[5px] h-[210px] bg-[#F5F5F6] rounded-[20px] mx-auto mt-[16px]"></div>
+                    <div class="w-[5px] h-[180px] bg-[#F5F5F6] rounded-[20px] mx-auto mt-[16px]"></div>
                 </div>
                 <div class="ml-[28px]">
                     <p class="font-[700] text-[12px] text-[#424259] font-rubik">Qadam-4</p>

@@ -1,5 +1,5 @@
 <template>
-    <div @click="open" class="w-full h-[180vh] bg-black bg-opacity-20 top-0 right-0 left-0 flex justify-center items-center fixed z-50 border-none">
+    <div @click="open" class="w-full h-[180vh] bg-black bg-opacity-20 top-0 right-0 left-0 flex justify-center items-center fixed z-50 border-none outline-none">
         <div class="w-full bg-white self-start max-w-screen-md max-h-screen-xl border border-black">
             <div class="flex items-center h-[60px] px-[10px] mt-[3px]">
                 <div class="w-[85%] flex items-center gap-2 md:w-[40%]">
@@ -25,7 +25,7 @@
                     <a href="#patient" @click="emitClose" class="text-[18px] block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white font-rubik">Bemorlar</a>
                 </li>
                 <li class="my-[32px] ">
-                    <button class="w-[342px] mx-[8px] font-[500] py-[10px] px-[20px] border border-[#2588AF] rounded-lg font-rubik text-[#2588AF] hover:text-white hover:bg-[#2588AF]">Bog'lanish</button>
+                    <button class="w-[92%] mx-4 font-[500] py-[10px] px-[20px] border border-[#2588AF] rounded-lg font-rubik text-[#2588AF] hover:text-white hover:bg-[#2588AF]">Bog'lanish</button>
                 </li>
             </ul>
         </div>
